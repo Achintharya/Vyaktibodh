@@ -1,6 +1,6 @@
-# EchoMind
+# Vyaktibodh
 
-EchoMind is a personal AI assistant that mirrors your professional details and answers queries as if it were you using RAG(Retrieval Augmented Generation). 
+Vyaktibodh is a personal AI assistant that mirrors your professional details and answers queries as if it were you using RAG(Retrieval Augmented Generation). 
 It uses MistralAI (Mistral-small-latest) for generating embeddings and conversational responses, and Supabase for storing and retrieving professional details in the form of vector embeddings.
 
 ## Features
